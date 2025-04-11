@@ -1,0 +1,520 @@
+Year,Make,Model,Variant,FuelType,Transmission,Location,Price,KMS_Driven,EMI_per_Month
+2020,Renault,Kwid  ,CLIMBER 1.0 AMT Opt,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",420000,37500,7152
+2022,Maruti,Ignis  ,Zeta MT Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",580000,31000,9877
+2011,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",292000,66000,20864
+2019,Maruti,Dzire  ,VDi,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",614000,91500,10456
+2022,Tata,Punch  ,Creative Dual Tone,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",697000,39000,11869
+2019,Maruti,Wagon R 1.2,ZXI AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",470000,69500,8003
+2022,Maruti,XL6  ,Alpha MT Petrol,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1000000,27500,17029
+2020,Maruti,Dzire  ,VXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",601000,13500,10234
+2018,Nissan,Micra Active ,XV Safety Pack,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",405000,35000,6896
+2019,Maruti,Swift  ,VDi,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",567000,64500,9655
+2013,Hyundai,i20  ,Magna 1.4 CRDI,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",330000,112000,12551
+2023,Hyundai,i20 N Line,N8 1.0 Turbo DCT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",1124000,28000,19330
+2016,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",273000,43500,4879
+2022,Kia,Carens  ,Luxury Plus 1.5 Diesel AT 7 STR,diesel,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1629000,36000,28015
+2023,Hyundai,Grand i10 Nios,Sportz 1.0 Turbo GDI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",689000,14500,11733
+2014,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",223000,69000,4965
+2017,Renault,Kwid  ,1.0 RXL AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",326000,46000,5551
+2014,Nissan,Micra Active ,XV,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",268000,42500,7223
+2016,Audi,A6  ,35 TFSI Premium Matrix,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",2050000,63500,35256
+2022,Jeep,Compass  ,Model S (O) 1.4 Petrol DCT,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",2025000,18000,34826
+2018,Hyundai,i20 Active ,1.2 SX,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",629000,53000,10711
+2018,Renault,Kwid  ,RXT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",338000,29000,5755
+2017,Maruti,Celerio  ,ZXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",423000,10500,7203
+2021,Maruti,Alto 800 ,VXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",350000,30500,6255
+2016,Nissan,Micra Active ,XV Safety Pack,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",330000,96500,5619
+2017,Chevrolet,Beat  ,PS Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",273000,53500,19506
+2013,Hyundai,i10  ,Sportz 1.2 Kappa2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",271000,121500,7304
+2021,Hyundai,Aura  ,SX 1.2 (O) Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",701000,28000,11937
+2018,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",236000,121500,4217
+2021,Maruti,Alto 800 ,VXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",333000,15000,5951
+2019,Renault,Kwid  ,RXL,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",308000,44000,5245
+2023,Maruti,XL6  ,Zeta AT Petrol,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1039000,95000,17868
+2019,Maruti,Ciaz  ,Alpha Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",669000,71500,11392
+2018,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",249000,116000,4450
+2015,Nissan,Micra Active ,XV,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",340000,37500,6188
+2017,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",405000,41500,7238
+2014,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",307000,64000,6835
+2023,Jeep,Compass  ,Model S (O) 1.4 Petrol DCT,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",2370000,15500,40760
+2021,Jeep,Compass  ,Trailhawk (O) 2.0 4x4,diesel,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",2000000,31000,34397
+2023,Toyota,Glanza  ,V,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",749000,39000,12755
+2015,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",229000,114000,4295
+2013,Hyundai,i10  ,Era Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",264000,65000,7116
+2019,Maruti,Alto 800 ,VXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",304000,92000,5433
+2017,Maruti,Swift  ,VXI (O),petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",481000,76500,8191
+2019,Renault,Kwid  ,CLIMBER 1.0,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",363000,47000,6181
+2017,Tata,Zest  ,XT Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",419000,59500,7135
+2013,Hyundai,i10  ,Sportz 1.2 Kappa2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",284000,88000,7655
+2018,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",510000,41000,8685
+2022,Volkswagen,Taigun  ,Topline 1.0 TSI AT,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1359000,42000,23364
+2013,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",206000,51500,7990
+2019,Renault,Kwid  ,RXL,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",320000,55500,5449
+2017,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",490000,38000,8344
+2018,Nissan,Micra Active ,XV,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",358000,78000,6096
+2016,Renault,Kwid  ,RXT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",275000,71500,4683
+2016,Maruti,Alto 800 ,Vxi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",265000,70500,4736
+2017,Maruti,Baleno  ,Zeta 1.2,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",602000,37500,10251
+2021,Maruti,Vitara Brezza ,ZXi Plus,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",892000,31000,15190
+2017,Maruti,Celerio  ,VXI (O) AMT,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",392000,59000,6675
+2018,BMW,X1  ,sDrive20d xLine,diesel,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",2300000,62000,39556
+2014,Honda,CR-V  ,2.0L 2WD AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",674000,131500,14465
+2013,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",205000,86500,5525
+2015,Honda,Brio  ,VX MT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",372000,76500,6348
+2014,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",233000,32000,6461
+2020,Kia,Seltos  ,GTX Plus DCT,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1482000,35500,25487
+2019,Renault,Kwid  ,RXL,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",343000,33000,5841
+2022,Maruti,Celerio  ,ZXI Plus,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",587000,10500,9996
+2017,Maruti,Baleno  ,Zeta AT Petrol,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",640000,29500,10898
+2019,Maruti,Alto 800 ,VXi (O),petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",312000,98500,5576
+2023,Renault,Kiger  ,RXZ AMT Dual Tone,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",729000,27500,12414
+2013,Maruti,Alto 800 ,Lxi CNG,petrol+cng,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",263000,41000,7293
+2011,Hyundai,i10  ,Sportz 1.2 Kappa2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",249000,83000,17792
+2022,Renault,Duster  ,RXS 1.5 Petrol MT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",849000,25000,14457
+2015,Hyundai,Elite i20 ,Sportz 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",461000,98000,8391
+2011,Hyundai,i20  ,Sportz 1.2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",288000,67500,20578
+2022,Kia,Carens  ,Prestige Plus 1.4 Petrol 7 STR,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1278000,18000,21978
+2021,Maruti,Celerio  ,ZXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",451000,58000,7680
+2021,Maruti,Baleno  ,Zeta,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",679000,39000,11562
+2022,Maruti,Alto 800 ,LXi (O),petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",358000,23000,6398
+2016,Mercedes,GLA  ,200 CDI Sport,diesel,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1800000,52500,33089
+2015,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",252000,109500,5408
+2018,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",259000,94500,4410
+2013,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",218000,93500,5876
+2013,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",240000,21000,6655
+2011,Hyundai,Santro Xing ,GLS,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",227000,38500,15206
+2019,Hyundai,Grand i10 ,Sportz AT 1.2 Kappa VTVT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",607000,33500,10336
+2023,Maruti,Swift  ,ZXI Plus AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",839000,25000,14287
+2015,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",443000,53000,8063
+2013,Hyundai,i10  ,Magna 1.2 Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",292000,79000,7870
+2011,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",281000,76500,20078
+2023,Tata,Altroz  ,XZA+ Dark Edition,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",875000,35500,14900
+2021,Maruti,Baleno  ,Zeta Automatic,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",738000,28500,12567
+2019,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",559000,26000,9519
+2015,Hyundai,Elite i20 ,Asta 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",556000,55500,10120
+2022,Skoda,Kushaq  ,Style 1.0L TSI AT,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1419000,16500,24404
+2023,Tata,Altroz  ,XZ 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",795000,8500,13538
+2020,Renault,Triber  ,RXZ,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",561000,53500,9553
+2014,Hyundai,Grand i10 ,Sportz AT 1.2 Kappa VTVT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",414000,82000,8885
+2016,Maruti,Baleno  ,Zeta 1.2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",529000,54000,9008
+2015,Mercedes,GLA  ,200 CDI Sport,diesel,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1880000,60000,34560
+2020,Datsun,Redi-GO  ,S 1.0,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",282000,68000,6052
+2018,Hyundai,i20 Active ,1.2 S,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",598000,51000,10183
+2011,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",186000,70500,13290
+2021,Maruti,Ignis  ,Zeta AMT Petrol,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",592000,22000,10081
+2022,Maruti,S-Presso  ,VXI (O),petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",418000,20500,7118
+2019,Maruti,Ignis  ,Zeta AMT Petrol,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",520000,70000,8855
+2014,Hyundai,Grand i10 ,Asta 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",353000,115000,7576
+2022,Renault,Triber  ,RXZ,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",566000,80500,11545
+2014,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",395000,105000,8477
+2023,Maruti,Swift  ,ZXI AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",780000,32500,13282
+2023,Renault,Kwid  ,CLIMBER 1.0 AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",529000,29000,9008
+2020,Maruti,Celerio X ,ZXI,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",461000,41500,7724
+2014,Honda,City  ,S,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",405000,112500,8692
+2014,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",405000,63000,8692
+2020,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",307000,24000,5486
+2011,Maruti,Wagon R 1.0,LXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",239000,65000,17257
+2011,Hyundai,i10  ,Magna 1.2 Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",223000,92000,15934
+2012,Honda,Brio  ,S MT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",229000,110500,8165
+2019,Ford,Figo Aspire ,Titanium 1.2 Ti-VCT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",544000,43500,8685
+2023,Maruti,Baleno  ,Alpha Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",795000,32000,13538
+2021,Maruti,Ciaz  ,Alpha AT Petrol,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",942000,45000,16041
+2021,Maruti,Dzire  ,VXI AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",687000,14000,11699
+2015,Hyundai,Eon  ,Era +,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",256000,72000,4368
+2018,Renault,Kwid  ,CLIMBER 1.0,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",330000,61500,5619
+2021,Maruti,S-Cross  ,Zeta,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",829000,36000,14117
+2018,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",508000,27500,8650
+2021,Renault,Kwid  ,1.0L RXT(O) AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",436000,43500,7424
+2012,Hyundai,i10  ,Sportz 1.2 Kappa2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",261000,97500,9926
+2022,Kia,Seltos  ,GTX Plus,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1495000,29500,25714
+2021,Maruti,S-Presso  ,VXI Plus,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",432000,20500,7356
+2018,Maruti,Ignis  ,Alpha AMT Petrol,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",508000,52000,8650
+2017,Renault,Kwid  ,1.0 RXT AMT,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",319000,40500,5432
+2018,Renault,Kwid  ,1.0 RXT AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",331000,91500,5636
+2013,Hyundai,i10  ,Era Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",255000,80500,9698
+2011,Hyundai,i10  ,Sportz 1.2 Kappa2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",282000,31000,20149
+2011,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",150000,91500,10718
+2021,Maruti,Ciaz  ,Alpha Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",752000,91000,12806
+2022,Maruti,Wagon R 1.0,VXI CNG,petrol+cng,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",609000,25500,10370
+2021,Volkswagen,Vento  ,Highline 1.0L TSI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",897000,22000,14320
+2018,Maruti,Baleno  ,Alpha 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",645000,52000,10983
+2024,Maruti,Swift  ,ZXI CNG,petrol+cng,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",865000,29000,14730
+2017,Maruti,Baleno  ,Zeta AT Petrol,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",567000,51000,9655
+2018,Hyundai,i20 Active ,1.2 SX,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",652000,41500,11103
+2018,Honda,WR-V  ,Edge Edition i-VTEC S,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",545000,78000,9281
+2021,Mahindra,XUV 300 ,W8 Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",906000,35000,15428
+2021,Renault,Kwid  ,CLIMBER 1.0 Opt,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",468000,13500,7969
+2021,Maruti,S-Cross  ,Zeta AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",977000,7500,16637
+2016,Renault,Duster  ,85 PS RXL EXPLORE,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",572000,116500,9740
+2016,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",383000,103000,6971
+2017,Renault,Kwid  ,1.0 RXT AMT Opt,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",336000,49000,5721
+2021,Renault,Triber  ,RXZ,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",598000,50000,10183
+2020,Hyundai,Grand i10 ,Asta 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",524000,99000,8923
+2017,Maruti,Celerio  ,ZXi AMT,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",350000,119500,5960
+2015,Hyundai,i10  ,Sportz 1.1 Petrol + CNG (Outside Fitted),petrol+cng,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",335000,94000,6097
+2016,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",341000,53500,6094
+2018,Maruti,Baleno  ,Alpha AT Petrol,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",656000,52000,11171
+2017,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",459000,46000,7816
+2019,Renault,Kwid  ,RXT 1.0 SCE Special (O),petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",371000,29500,6317
+2018,Maruti,Alto 800 ,VXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",321000,56500,5737
+2024,Tata,Tiago NRG ,XZ,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",678000,22500,11545
+2024,Maruti,Baleno  ,Alpha AMT Petrol,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",872000,31500,14849
+2022,Maruti,Vitara Brezza ,ZXI Plus Dual Tone,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",949000,21500,16160
+2017,Hyundai,i20 Active ,1.2 SX,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",648000,59000,11035
+2018,Maruti,Celerio  ,ZXI (O) AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",461000,47000,7850
+2022,Maruti,Alto 800 ,Vxi Plus,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",403000,30500,7202
+2021,Kia,Seltos  ,HTX IVT G,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",1119000,51000,19244
+2014,Honda,Amaze  ,1.2 VX i-VTEC,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",358000,83000,9649
+2020,Hyundai,New i20 ,Asta (O) 1.5 MT Diesel,diesel,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",776000,112000,13214
+2013,Hyundai,i20  ,Asta 1.4 CRDI,diesel,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",423000,106500,11402
+2012,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",346000,28000,13159
+2015,Maruti,Ritz  ,Vxi BS-IV,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",312000,70000,6277
+2014,Maruti,Alto 800 ,Lxi CNG,petrol+cng,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",231000,82000,5143
+2014,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",197000,45500,5463
+2011,Hyundai,i10  ,Magna 1.2 Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",221000,85000,15791
+2021,Kia,Sonet  ,HTX 1.0 iMT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",862000,75000,14679
+2022,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",670000,6000,11409
+2021,Maruti,Baleno  ,Alpha Automatic,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",725000,42000,12346
+2018,Renault,Kwid  ,1.0 RXT AMT Opt,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",398000,13000,6777
+2016,Maruti,Alto 800 ,VXi (O),petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",264000,81000,4718
+2018,Renault,Kwid  ,1.0 RXT AMT Opt,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",357000,51000,6079
+2021,Hyundai,Venue  ,SX 1.0 Turbo iMT,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",873000,36500,14866
+2015,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",410000,82000,7463
+2021,Tata,Tigor  ,Revotron XZ+,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",647000,22500,11018
+2023,Maruti,Baleno  ,Alpha Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",878000,17000,14951
+2017,Maruti,Wagon R 1.0,VXI AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",409000,55500,7309
+2012,Hyundai,i10  ,Sportz 1.2 Kappa2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",273000,80500,10383
+2017,Honda,Jazz  ,V Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",479000,104000,7647
+2020,Maruti,Baleno  ,Zeta,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",623000,44000,10609
+2011,Hyundai,i10  ,Sportz 1.2 AT Kappa2,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",296000,62500,21150
+2013,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",233000,45500,6461
+2014,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",238000,36500,5298
+2016,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",349000,60000,6237
+2014,Hyundai,Elite i20 ,Asta 1.4 CRDI,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",503000,130500,10795
+2015,Maruti,Ciaz  ,ZXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",487000,119000,8864
+2021,Maruti,Vitara Brezza ,ZXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",840000,44000,14304
+2018,Hyundai,Elite i20 ,Asta 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",614000,55500,10456
+2021,Volkswagen,Vento  ,1.0LHighline Plus Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",878000,40000,14017
+2022,Renault,Kwid  ,CLIMBER 1.0 AMT Opt,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",519000,14500,8838
+2022,Skoda,Kushaq  ,Style 1.5L TSI MT,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1349000,46500,23200
+2017,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",283000,39500,5057
+2019,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",559000,30000,9519
+2022,Maruti,S-Presso  ,VXI (O),petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",429000,28500,7305
+2019,Maruti,Dzire  ,VXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",623000,29500,10609
+2021,Mahindra,Thar  ,LX 4 STR Hard Top Petrol AT 4WD,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1278000,29500,21977
+2014,Honda,Amaze  ,1.2 VX i-VTEC,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",359000,120000,7704
+2020,Maruti,S-Cross  ,Zeta 1.3,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",799000,85500,13606
+2016,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",247000,94500,4496
+2015,Hyundai,Elite i20 ,Asta 1.4 CRDI,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",576000,101500,10484
+2016,Maruti,Baleno  ,Delta 1.2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",463000,109500,7884
+2012,Nissan,Sunny  ,XL Diesel,diesel,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",312000,126500,11124
+2019,Hyundai,Grand i10 ,Asta 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",481000,110000,8191
+2018,Mahindra,XUV500  ,W6,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",862000,96500,15406
+2020,Kia,Seltos  ,GTX Plus DCT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",1285000,107000,22099
+2014,Honda,City  ,VX,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",571000,140000,12254
+2023,Maruti,Baleno  ,Alpha AMT Petrol,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",926000,17500,15769
+2019,Hyundai,Elite i20 ,Asta (O) CVT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",710000,64500,12090
+2018,Hyundai,Grand i10 ,Asta 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",559000,32500,9519
+2022,Maruti,Wagon R 1.2,VXI (O),petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",525000,23000,8940
+2020,Hyundai,Aura  ,SX 1.2 Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",608000,31000,10353
+2019,Maruti,S-Cross  ,Alpha 1.3,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",959000,51500,16331
+2021,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",580000,55000,9877
+2020,Hyundai,Grand i10 Nios,Asta 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",606000,49500,10319
+2018,Renault,Kwid  ,1.0 RXT AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",395000,24500,6726
+2016,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",439000,42000,7475
+2011,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",257000,52000,18557
+2019,Hyundai,New Santro 1.1,Sportz MT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",402000,57500,6417
+2021,Ford,Freestyle  ,Titanium 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",519000,61000,8838
+2011,Hyundai,i20  ,Sportz 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",279000,67000,19935
+2018,Hyundai,Grand i10 ,Sportz (O) 1.2 kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",415000,47500,7067
+2020,Renault,Triber  ,RXZ AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",529000,61000,9008
+2017,Maruti,Ignis  ,Zeta AMT Diesel,diesel,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",467000,80500,7952
+2022,Renault,Duster  ,RXS Turbo,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",878000,47500,14951
+2011,Hyundai,i10  ,Sportz 1.2 Kappa2,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",248000,66000,17720
+2020,Hyundai,Verna  ,SX Opt Petrol,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1054000,53000,18126
+2024,Hyundai,Exter  ,SX 1.2 CNG MT,petrol+cng,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",861000,25500,14662
+2021,Maruti,S-Cross  ,Zeta AT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",929000,31000,15820
+2022,Tata,Nexon  ,XZ Plus S,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",920000,45000,15667
+2017,Hyundai,Grand i10 ,Asta 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",521000,39500,8872
+2017,Hyundai,Grand i10 ,Magna 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",432000,43000,7356
+2020,Maruti,S-Presso  ,VXI Plus,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",421000,25500,7169
+2021,Hyundai,Aura  ,SX 1.2 (O) Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",668000,55000,11375
+2024,Maruti,Wagon R 1.2,ZXI Plus,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",673000,14500,11460
+2021,Hyundai,Verna  ,SX Opt Turbo Petrol,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1239000,28000,21308
+2016,Honda,Amaze  ,1.2 SX i-VTEC,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",434000,70500,7390
+2020,Renault,Duster  ,RXZ Turbo CVT Petrol,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",834000,71000,14202
+2014,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",307000,81500,6835
+2018,Datsun,Redi-GO  ,S 1.0,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",255000,42500,9698
+2017,Honda,WR-V  ,i-DTEC VX,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",678000,105000,11545
+2013,Ford,EcoSport  ,Titanium 1.0 Ecoboost (Opt),petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",446000,65000,12022
+2020,MG,Hector  ,2.0 Sharp,diesel,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1333000,85000,22923
+2023,Hyundai,Grand i10 Nios,Asta 1.2 AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",759000,14500,12925
+2017,Hyundai,Elite i20 ,Asta 1.2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",619000,49500,10541
+2018,Maruti,Dzire  ,VDi,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",668000,75000,11375
+2020,Renault,Kwid  ,1.0L RXT (O) AMT SCE,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",436000,37000,7424
+2015,Honda,Amaze  ,1.2 VX i-VTEC,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",463000,52500,8427
+2021,Kia,Seltos  ,HTX Plus D,diesel,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1325000,55000,22784
+2022,Tata,Nexon  ,XZA Plus Premium Dark Edition AMT,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1059000,37500,18212
+2021,Tata,Nexon  ,XZA Plus Dualtone Roof AMT S,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",1032000,20000,17748
+2017,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",512000,24500,8719
+2018,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",284000,36000,5075
+2021,Renault,Triber  ,RXZ,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",562000,69500,9570
+2019,Hyundai,Grand i10 ,Asta 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",447000,103000,7612
+2019,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",489000,66500,8327
+2017,Maruti,Ciaz  ,Zeta 1.3 Diesel,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",619000,93000,10541
+2019,Renault,Kwid  ,CLIMBER 1.0 AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",370000,97500,6300
+2017,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",294000,80000,5006
+2016,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",408000,106000,6948
+2018,Honda,Jazz  ,VX Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",478000,100500,7631
+2015,Maruti,Alto 800 ,Vxi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",237000,105500,5276
+2012,Honda,Brio  ,S MT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",273000,63500,9734
+2018,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",512000,45000,8719
+2022,Tata,Altroz  ,XZ 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",651000,74500,11086
+2022,Tata,Altroz  ,XZ 1.2 MT Dual tone,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",721000,20000,12278
+2021,Renault,Duster  ,RXZ Turbo CVT Petrol,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",998000,33500,16995
+2021,Hyundai,Creta  ,SX Turbo DCT Petrol,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1368000,39500,23526
+2019,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",373000,39000,6351
+2019,Maruti,S-Presso  ,VXI Plus,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",390000,36500,6641
+2019,Ford,Figo Aspire ,Titanium 1.5 Ti-VCT AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",528000,74000,8429
+2017,Ford,EcoSport  ,Titanium 1.5L Ti-VCT AT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",647000,42000,11018
+2015,Tata,Nano  ,Twist XT Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",174000,12500,3500
+2016,Maruti,Swift  ,VXI (O),petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",437000,97500,7441
+2014,Hyundai,i20  ,Sportz 1.4 CRDI,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",390000,142500,8370
+2014,Hyundai,Grand i10 ,Sportz 1.1 CRDi,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",361000,95500,7747
+2014,Ford,EcoSport  ,Ambiente 1.5 TDCi,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",415000,106000,11186
+2018,Maruti,Alto K10 ,VXi (O),petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",305000,31000,5193
+2014,Maruti,Swift Dzire ,ZDI,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",459000,86500,12372
+2015,Ford,EcoSport  ,Titanium 1.5 TDCi,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",472000,144500,8591
+2016,Ford,EcoSport  ,Ambiente 1.5 TDCi,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",499000,108000,9083
+2012,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",197000,60000,7641
+2016,Honda,City  ,VX CVT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",595000,122000,10132
+2022,Maruti,S-Presso  ,VXI Plus AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",512000,16000,8719
+2017,Honda,Jazz  ,SV Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",498000,67500,7950
+2017,Ford,EcoSport  ,Titanium 1.5L Ti-VCT AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",665000,59000,11324
+2022,Hyundai,Aura  ,SX 1.2 Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",711000,19000,12107
+2015,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",268000,27500,5100
+2022,Hyundai,Venue  ,SX 1.2 Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",965000,29500,16433
+2018,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",331000,17500,5915
+2022,Renault,Kiger  ,RXZ AMT Dual Tone,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",760000,28000,12942
+2019,Ford,Figo Aspire ,Titanium 1.5 Ti-VCT AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",572000,56500,9132
+2017,Honda,WR-V  ,VX i-VTEC,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",645000,41500,10983
+2017,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",254000,43500,4539
+2013,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",206000,81500,5712
+2021,Toyota,Glanza  ,V CVT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",757000,40000,12891
+2014,Hyundai,Eon  ,Magna +,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",239000,69500,4808
+2012,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",369000,62500,14034
+2011,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",188000,80500,13433
+2018,Volkswagen,Ameo  ,1.0 Highline Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",498000,100500,7950
+2014,Maruti,Alto 800 ,Vxi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",218000,40000,6045
+2021,Kia,Sonet  ,GTX Plus 1.5,diesel,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",907000,114000,15445
+2019,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",460000,62000,7833
+2020,Maruti,S-Cross  ,Zeta 1.3,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",978000,57000,16654
+2021,Honda,City  ,ZX Petrol,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1059000,68000,18212
+2019,Renault,Kwid  ,RXL,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",316000,44500,5381
+2023,Maruti,Celerio  ,ZXI Plus,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",598000,21500,10183
+2021,Maruti,Dzire  ,ZXI AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",687000,26500,11699
+2014,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",243000,67000,5410
+2022,Honda,Amaze  ,1.2 VX i-VTEC,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",759000,32500,12925
+2021,Kia,Sonet  ,GTX Plus 1.5 AT,diesel,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",1129000,89500,19416
+2023,Tata,Nexon  ,XMA Plus (S),petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",990000,31500,16859
+2020,Maruti,Wagon R 1.2,ZXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",497000,38000,8463
+2012,Hyundai,i10  ,Sportz 1.2 Kappa2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",274000,47500,19578
+2016,Hyundai,Creta  ,1.6 SX Plus Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",754000,132000,12840
+2016,Hyundai,Creta  ,1.6 SX Plus Auto,diesel,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",850000,121000,14475
+2013,Maruti,Swift  ,ZXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",427000,62500,11509
+2016,Ford,EcoSport  ,Titanium 1.5L Ti-VCT AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",612000,131500,10422
+2016,Hyundai,Elite i20 ,Asta 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",526000,126000,8957
+2014,Ford,EcoSport  ,Trend 1.5 TDCi,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",435000,100000,9335
+2013,Volkswagen,Vento  ,1.6L Highline Diesel,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",421000,102500,10638
+2020,Honda,City  ,ZX,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",849000,107000,14457
+2015,Maruti,Swift Dzire ,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",467000,57000,8500
+2023,Tata,Tigor  ,Revotron XZA plus AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",748000,36500,12738
+2022,Maruti,Celerio  ,VXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",524000,15000,8923
+2021,Hyundai,Venue  ,SX Plus 1.0 Turbo DCT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",1033000,28000,17765
+2021,Tata,Tigor  ,Revotron XZ+,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",651000,24000,11086
+2015,Maruti,Ritz  ,Vxi BS-IV,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",344000,59000,5870
+2021,Tata,Altroz  ,XZ Plus 1.2 Turbo DT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",726000,47500,12363
+2017,Maruti,Ertiga  ,VXI AT,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",729000,46000,12414
+2017,Renault,Kwid  ,RXT 1.0 SCE Special,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",341000,35500,5807
+2019,Renault,Kwid  ,1.0 RXT Opt,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",368000,26500,6266
+2017,Ford,EcoSport  ,Trend 1.5L TDCi,diesel,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",552000,108000,9400
+2014,Maruti,Ritz  ,Vxi BS-IV,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",281000,105500,5653
+2020,Kia,Seltos  ,HTX G,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1032000,47500,17748
+2011,Hyundai,i10  ,Sportz 1.2 AT Kappa2,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",288000,82000,20578
+2015,Honda,Amaze  ,1.2 VX i-VTEC,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",424000,94000,7717
+2019,Honda,City  ,VX CVT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",764000,117000,13010
+2017,Honda,Jazz  ,VX Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",512000,112000,8174
+2015,Hyundai,Elite i20 ,Asta 1.4 CRDI,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",492000,145000,8955
+2013,Maruti,Swift  ,VDi,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",332000,97000,8949
+2015,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",399000,68000,7262
+2016,Hyundai,Creta  ,1.6 SX Plus Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",795000,79500,13538
+2018,Maruti,Alto 800 ,VXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",336000,29500,6005
+2022,Hyundai,Grand i10 Nios,Asta 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",689000,20000,11733
+2016,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",288000,86000,4904
+2022,Honda,Amaze  ,1.2 VX CVT i-VTEC,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",740000,73000,12601
+2021,Renault,Triber  ,RXZ,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",591000,53500,10064
+2022,Renault,Triber  ,RXZ,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",678000,32000,11545
+2021,Renault,Kiger  ,RXZ 1.0 Turbo MT Dual Tone,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",759000,28000,12925
+2022,Renault,Triber  ,RXZ AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",642000,30000,10932
+2021,Nissan,Magnite  ,XL Turbo CVT,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",644000,58500,10966
+2013,Ford,EcoSport  ,Trend 1.5 TDCi,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",438000,119500,11806
+2020,Tata,Nexon  ,XZ Plus Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",712000,84500,12124
+2014,Maruti,Ritz  ,Vxi BS-IV,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",308000,109500,6197
+2014,Maruti,Swift  ,VDi,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",425000,102500,9121
+2016,Honda,City  ,SV CVT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",536000,97000,9127
+2017,Datsun,GO  ,T,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",275000,41000,5902
+2015,Hyundai,Elite i20 ,Asta 1.4 CRDI,diesel,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",537000,132000,9774
+2015,Hyundai,i20 Active ,1.4 SX,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",544000,121000,9902
+2018,Maruti,Ciaz  ,Zeta 1.4 AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",642000,96000,10932
+2014,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",402000,52500,8627
+2017,Maruti,Celerio  ,ZXi AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",397000,57500,6760
+2015,Honda,Amaze  ,1.2 VX i-VTEC,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",476000,54500,8664
+2017,Maruti,Alto 800 ,VXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",316000,29500,5647
+2019,Hyundai,Grand i10 ,Magna AT 1.2 Kappa VTVT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",582000,20500,9911
+2020,Maruti,Wagon R 1.2,VXI (O),petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",457000,55500,7782
+2016,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",267000,60500,4771
+2019,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",510000,39500,8685
+2021,Kia,Sonet  ,HTX Plus 1.5,diesel,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1083000,42000,18630
+2015,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",259000,35000,4929
+2016,Renault,Kwid  ,RXT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",292000,25500,4972
+2013,Maruti,Alto 800 ,Vxi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",255000,36000,7071
+2014,Hyundai,Eon  ,Magna +,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",271000,41500,5452
+2016,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",268000,56500,4563
+2013,Volkswagen,Vento  ,1.6L Highline Diesel,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",436000,103000,11017
+2018,Tata,Nexon  ,XZA Plus AMT Diesel,diesel,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",752000,103000,12806
+2023,Maruti,Dzire  ,ZXI Plus,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",749000,95500,12755
+2018,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",248000,99000,4432
+2018,Maruti,S-Cross  ,Alpha 1.3,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",815000,84000,13878
+2019,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",534000,45000,9093
+2019,Hyundai,Grand i10 ,Asta 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",540000,55000,9195
+2023,Maruti,Ciaz  ,Alpha Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",959000,23000,16331
+2018,Maruti,Ignis  ,Delta MT Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",418000,64500,7118
+2020,Renault,Duster  ,RXZ Turbo Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",863000,45500,14696
+2017,Maruti,Alto 800 ,LXI (O),petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",268000,53500,4789
+2022,Maruti,Ciaz  ,Alpha Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",964000,26500,16416
+2017,Hyundai,Elite i20 ,Asta 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",605000,68500,10302
+2018,Maruti,Vitara Brezza ,ZDi,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",784000,85000,13351
+2019,Renault,Kwid  ,RXT 1.0 SCE Special (O),petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",359000,51500,6113
+2016,Hyundai,Elite i20 ,Asta 1.2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",518000,148500,8821
+2022,Maruti,Vitara Brezza ,ZXi Plus,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",898000,33500,15292
+2014,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",375000,74500,10108
+2016,Renault,Kwid  ,RXT,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",277000,80500,4717
+2018,Mahindra,Scorpio  ,S5,diesel,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",935000,87500,15922
+2012,Hyundai,i10  ,Magna 1.2 Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",281000,27500,10687
+2014,Maruti,Swift  ,ZXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",427000,68000,9164
+2017,Renault,Kwid  ,CLIMBER 1.0 AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",394000,9000,6709
+2016,Maruti,Baleno  ,Zeta 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",539000,66000,9178
+2016,Maruti,Swift Dzire ,VDI (O),diesel,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",497000,89000,9046
+2022,Renault,Triber  ,RXT AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",655000,43500,11154
+2017,Maruti,Ignis  ,Zeta AMT Petrol Dual Tone,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",553000,24500,9417
+2021,Volkswagen,Polo  ,Trendline 1.0 (P),petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",595000,31500,9499
+2017,Maruti,Swift  ,VXI (O),petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",478000,68500,8140
+2017,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",297000,22000,5308
+2017,Mahindra,TUV300  ,T8 mHAWK100,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",685000,36000,11665
+2015,Honda,Amaze  ,1.2L SX,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",417000,64000,7590
+2013,Maruti,Swift  ,ZXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",396000,69000,15061
+2015,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",298000,137000,5671
+2014,Hyundai,Elite i20 ,Asta 1.4 CRDI,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",532000,114000,11417
+2017,Hyundai,Creta  ,1.6 SX Plus Auto Petrol,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",874000,91500,14883
+2017,Hyundai,Eon  ,Magna +,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",262000,77500,4182
+2016,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",412000,105500,7499
+2017,Hyundai,Eon  ,Sportz,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",309000,71000,4933
+2018,Maruti,S-Cross  ,Zeta 1.3,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",726000,103500,12363
+2018,Honda,WR-V  ,i-DTEC VX,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",721000,112000,12278
+2021,Nissan,Magnite  ,XV Premium Turbo CVT (O) Dual Tone,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",874000,47500,14883
+2022,Renault,Kwid  ,Climber 1.0l SCE Petrol MT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",469000,24500,7986
+2014,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",314000,59500,6991
+2019,Renault,Kwid  ,RXT 1.0 SCE Special (O),petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",321000,84500,5466
+2018,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",312000,57500,5313
+2016,Hyundai,Elite i20 ,Magna 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",464000,47500,7901
+2020,Hyundai,Venue  ,SX 1.0 (O) Turbo iMT,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",858000,27500,14611
+2014,Hyundai,i20  ,Asta 1.4 CRDI,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",483000,72500,10366
+2019,Maruti,Alto 800 ,VXi,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",340000,57000,6076
+2022,Hyundai,Grand i10 Nios,Asta AMT 1.2 Kappa VTVT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",749000,24000,12755
+2014,Toyota,Etios  ,G,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",387000,48500,9779
+2011,Hyundai,i10  ,Sportz 1.2 Kappa2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",263000,62000,18792
+2016,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",401000,104000,6828
+2011,Maruti,Swift  ,LXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",309000,64000,22079
+2014,Maruti,Alto 800 ,Vxi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",231000,67500,5143
+2021,Renault,Triber  ,RXZ AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",593000,75500,10098
+2016,Maruti,Alto 800 ,LXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",257000,35000,4593
+2015,Maruti,Alto 800 ,Lxi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",246000,53000,4681
+2020,Maruti,Baleno  ,Alpha,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",690000,49500,11750
+2023,MG,Astor  ,Sharp 1.5 CVT,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1349000,25500,23199
+2018,Maruti,Alto K10 ,VXi (O),petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",337000,48500,5738
+2015,Hyundai,i10  ,Sportz 1.1 Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",373000,44000,6789
+2020,Renault,Triber  ,RXZ,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",570000,51000,9706
+2017,Maruti,Ignis  ,Alpha MT Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",498000,75500,8480
+2018,Hyundai,i20 Active ,1.2 SX,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",624000,81500,10626
+2015,Honda,City  ,VX,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",557000,90000,10138
+2018,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",396000,65500,7077
+2015,Honda,Amaze  ,1.2 S i-VTEC,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",372000,60500,6771
+2012,Honda,Brio  ,S(O)MT,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",275000,78500,9805
+2021,Kia,Seltos  ,HTX G,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1118000,101000,19226
+2016,Hyundai,Elite i20 ,Asta 1.2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",484000,101000,8809
+2011,Maruti,Wagon R 1.0,LXI CNG,petrol+cng,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",253000,106500,18077
+2019,Honda,City  ,V 4th Gen,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",700000,105000,11920
+2020,Hyundai,Venue  ,SX Plus 1.0 Turbo DCT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",821000,110500,13981
+2019,Maruti,Swift  ,ZXI AMT,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",634000,43000,10796
+2017,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",296000,41500,5040
+2014,Maruti,Celerio  ,VXI AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",321000,55500,6889
+2021,Skoda,Kushaq  ,Style 1.0L TSI MT,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1130000,78500,19430
+2020,Kia,Seltos  ,GTX Plus DCT,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1332000,74500,22907
+2015,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",353000,63000,6718
+2023,Maruti,Brezza  ,ZXI AT Dual Tone,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1206000,17000,20740
+2023,Maruti,Ignis  ,Alpha MT Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",679000,19500,11562
+2018,Maruti,Ciaz  ,Alpha 1.4 AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",708000,64500,12056
+2019,Honda,WR-V  ,VX i-VTEC Petrol+cng(Outside Fitted),petrol+cng,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",749000,46000,12755
+2022,Renault,Duster  ,RXS Turbo,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",937000,24500,15956
+2021,Renault,Kwid  ,CLIMBER 1.0 Opt,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",461000,2500,7850
+2020,Mahindra,XUV 300 ,W8 AMT (O) Diesel,diesel,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1008000,66500,17165
+2016,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",310000,44000,5540
+2013,Nissan,Micra  ,XV Petrol,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",249000,106500,6292
+2021,Maruti,S-Presso  ,VXI Plus,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",406000,18000,6913
+2016,Ford,EcoSport  ,Titanium 1.5L Ti-VCT,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",547000,111500,9315
+2014,Hyundai,Elite i20 ,Asta 1.4 CRDI,diesel,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",533000,136000,11439
+2015,Hyundai,i10  ,Sportz 1.1 Petrol,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",310000,92500,5642
+2019,Maruti,XL6  ,Alpha AT Petrol,petrol,automatic,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",862000,96500,14679
+2017,Nissan,Micra Active ,XV Safety Pack,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",330000,64000,6006
+2011,Maruti,Estilo  ,VXI,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",201000,70500,14362
+2017,Maruti,Baleno  ,Alpha 1.2,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",590000,40000,10047
+2022,Maruti,Ciaz  ,Alpha Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",945000,39500,16092
+2019,Hyundai,New Santro 1.1,Asta MT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",483000,7500,7711
+2022,Maruti,S-Presso  ,VXI Plus,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",453000,32000,7918
+2020,Tata,Tiago  ,Revotron XZ Plus,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",534000,41000,9093
+2016,Maruti,Alto K10 ,VXi,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",278000,54500,5060
+2021,Hyundai,Grand i10 Nios,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",611000,31500,10404
+2018,Hyundai,Grand i10 ,Sportz 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",510000,47000,8685
+2019,Hyundai,Venue  ,SX Plus 1.0 Turbo DCT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",825000,63500,14049
+2019,Renault,Kwid  ,1.0 RXT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",336000,40000,5721
+2021,Tata,Altroz  ,XT 1.5,diesel,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",630000,94000,10728
+2021,Maruti,S-Presso  ,VXI Plus AMT,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",423000,54500,7203
+2014,Hyundai,i20  ,Sportz 1.4 CRDI,diesel,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",439000,101500,9421
+2018,Maruti,Ciaz  ,Alpha 1.4 AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",697000,111000,11869
+2015,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",304000,93500,5785
+2011,Hyundai,i10  ,Sportz 1.2 Kappa2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",210000,75500,15005
+2016,Maruti,Baleno  ,Delta 1.2 AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",503000,64000,8565
+2012,Honda,City  ,1.5 V MT,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",374000,75000,14224
+2018,Maruti,Ciaz  ,Alpha 1.4 AT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",745000,68000,12686
+2021,Hyundai,i20 N Line,N8 1.0 Turbo DCT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",928000,30500,15803
+2022,Mahindra,Thar  ,LX 4 STR Hard Top Petrol MT 4WD,petrol,manual,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",1275000,42000,21926
+2015,Maruti,Alto 800 ,Vxi,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",288000,7000,5481
+2020,Maruti,S-Presso  ,VXI Plus,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",356000,80500,6062
+2021,Tata,Nexon  ,XZA Plus AMT S,petrol,automatic,"Spinny Car Hub, Forum Sujana Mall, Hyderabad",979000,32000,16671
+2018,Volkswagen,Ameo  ,Highline Plus 1.5L AT (D),diesel,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",596000,73000,9515
+2020,Maruti,Ciaz  ,Alpha AT Petrol,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",809000,68000,13776
+2018,Maruti,Vitara Brezza ,ZDi Plus,diesel,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",818000,77500,13930
+2015,Maruti,Wagon R 1.0,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",351000,44000,6680
+2022,Renault,Duster  ,RXZ Petrol,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",792000,44000,13487
+2011,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",283000,83500,20221
+2018,Hyundai,Grand i10 ,Asta 1.2 Kappa VTVT,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",452000,108000,7697
+2016,Volkswagen,Vento  ,1.5L Highline Diesel AT,diesel,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",605000,106500,9658
+2018,Maruti,Dzire  ,ZXi AMT,petrol,automatic,"Spinny Car Hub, Phoenix Trivium, Hyderabad",567000,117000,9655
+2016,Datsun,GO  ,T,petrol,manual,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",227000,130000,6118
+2017,Maruti,Baleno  ,Alpha 1.2,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",521000,121000,8872
+2011,Maruti,Wagon R 1.0,LXI CNG,petrol+cng,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",272000,53000,19435
+2012,Toyota,Etios  ,VX,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",305000,108500,10875
+2011,Maruti,Swift  ,VXI,petrol,manual,"Spinny Car Hub, D-Mart, Madhapur, Hyderabad",277000,99000,19792
+2022,Tata,Altroz  ,XZA+ Dark Edition,petrol,automatic,"Spinny Car Hub, DSL Virtue Mall, Hyderabad",778000,58500,13248
+2018,Honda,Brio  ,S(O)MT,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",459000,42000,7327
+2019,Renault,Kwid  ,1.0 RXT(O) SCE,petrol,manual,"Spinny Car Hub, Phoenix Trivium, Hyderabad",339000,80500,5772
